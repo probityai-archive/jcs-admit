@@ -1,5 +1,5 @@
 <!-- moved-to-monorepo -->
-> **Moved to [github.com/probityai/agent-evidence/crates/jcs-admit](https://github.com/probityai/agent-evidence/tree/main/crates/jcs-admit).** This repository is archived. Its tags, releases, Actions and Pages keep working.
+> **Moved to [probityai/agent-evidence/crates/jcs-admit](https://github.com/probityai/agent-evidence/tree/main/crates/jcs-admit). Star and follow it there.** This repository is archived; its tags and releases keep working.
 
 # jcs-admit
 
